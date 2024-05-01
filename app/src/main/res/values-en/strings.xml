@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prueba1</string>
+    <string name="contrasena">Password</string>
+    <string name="ingresar">Enter</string>
+    <string name="usuario">Username</string>
+    <string name="Mesa_ayuda">Help desk 0810-999-52232</string>
+    <string name="acerca_de">About</string>
+    <string name="nuestra_compania">Our company</string>
+    <string name="vision">Vision</string>
+    <string name="textolargo">Being a leader in the Argentine insurance market, positioning ourselves among the top three insurance groups, with financial strength and nationwide presence, while embodying the cooperative values that founded us</string>
+    <string name="cerrar_sesion">Log off</string>
+    <string name="nombremio">Tomás Basso Fernández</string>
+    <string name="contactotbn">Contact</string>
+    <string name="hablemosbtn">Let’s talk</string>
+    <string name="volverbtn">Return</string>
+    <string name="msj_error">Username or password error</string>
+    <string name="nuestra_compani">Our company</string>
+</resources>

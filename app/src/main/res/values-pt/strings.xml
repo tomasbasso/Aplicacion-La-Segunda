@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prueba1</string>
+    <string name="contrasena">Senha</string>
+    <string name="ingresar">Entrar</string>
+    <string name="usuario">Nome de usuário</string>
+    <string name="Mesa_ayuda">Ajuda 0810-999-52232</string>
+    <string name="acerca_de">Sobre</string>
+    <string name="nuestra_compania">Nossa empresa</string>
+    <string name="vision">Visão</string>
+    <string name="textolargo">Ser líder do mercado segurador argentino, posicionando-nos entre os três primeiros grupos seguradores, com solvência e presença federal, vivendo interna e externamente os valores cooperativos que nos fundaram.</string>
+    <string name="cerrar_sesion">Fechar Sessão</string>
+    <string name="nombremio">Tomás Basso Fernández</string>
+    <string name="contactotbn">Contato</string>
+    <string name="hablemosbtn">Vamos conversar</string>
+    <string name="volverbtn">Retornar</string>
+    <string name="msj_error">Erro de nome de usuario ou senha</string>
+    <string name="nuestra_compani">Nossa empresa</string>
+</resources>

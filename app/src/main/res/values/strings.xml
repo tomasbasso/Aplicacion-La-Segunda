@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Prueba1</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="usuario">Nombre de usuario</string>
+    <string name="Mesa_ayuda">Mesa de ayuda 0810-999-52232</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="vision">Vision</string>
+    <string name="textolargo">Ser líder del mercado asegurador argentino posicionándonos dentro de los tres primeros grupos aseguradores, con solvencia y presencia federal, viviendo interna y externamente los valores cooperativos que nos fundaron.</string>
+    <string name="cerrar_sesion">Cerrar Sesion</string>
+    <string name="nombremio">Tomás Basso Fernández</string>
+    <string name="contactotbn" translatable="false">Contacto</string>
+    <string name="hablemosbtn">Hablemos</string>
+    <string name="volverbtn">Volver</string>
+    <string name="msj_error">Error en usuario o contraseña</string>
+    <string name="nuestra_compani">Nuestra Compañia</string>
+</resources>
